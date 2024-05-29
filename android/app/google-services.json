@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "4381499685",
+    "firebase_url": "https://flutteregitim1-bf20b-default-rtdb.firebaseio.com",
+    "project_id": "flutteregitim1-bf20b",
+    "storage_bucket": "flutteregitim1-bf20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4381499685:android:6eba80c8aa19cbc390bacc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_giris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIyCx35l0dKOhF1JYXaxHA_NMLJNs6nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
